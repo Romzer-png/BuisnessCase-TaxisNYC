@@ -211,4 +211,4 @@ __marimo__/
 data_raw/
 *.duckdb
 *.parquet
-
+data_processed/
